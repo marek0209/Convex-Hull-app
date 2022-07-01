@@ -1,0 +1,33 @@
+.width50{
+  width: 50% !important;
+}
+
+.todo-app{
+  display: flex;
+}
+
+.convex{
+  display: flex;
+  flex-direction: column-reverse;
+  justify-content: center;
+}
+
+.hull{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.icons{
+  display: flex;
+  justify-content: flex-end;
+}
+
+.title{
+  padding: 15px 24px;
+}
+
+.alert-container, .points-container{
+  padding-top: 1.1rem !important;
+}
